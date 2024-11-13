@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(149, 205, 255);
+}
+.class1{
+    font-size: 19;
+}
+.class2{
+    color: azure;
+}
